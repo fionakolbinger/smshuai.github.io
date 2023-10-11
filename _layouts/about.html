@@ -6,7 +6,7 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title">
-     <span class="font-weight-bold" style="color:#ed6b00">{{ page.title }}</span>
+     <span class="font-weight-bold" style="color:#000000">{{ page.title }}</span>
     </h1>
      <p class="post-description">{{ page.description }}</p>
   </header>
@@ -29,35 +29,10 @@ layout: default
       {{ content }}
     </div>
 
-    {% if page.news %}
-      <h2>news</h2>
-      {% include news.html %}
-    {% endif %}
-
     {% if page.selected_papers %}
       <h2>selected publications</h2>
       {% include selected_papers.html %}
     {% endif %}
-
-    <h2>contact us</h2>
-    <div class="contact">
-      <div class="table-responsive">
-        <table class="table table-sm table-borderless">
-          <tr>
-            <th scope="row"><i class="fas fa-envelope" style="font-size: 2rem"></i></th>
-            <td style="vertical-align: middle;">shuaism[at]sustech.edu.cn</td>
-          </tr>
-          <tr>
-            <th scope="row"><i class="fas fa-phone" style="font-size: 2rem"></i></th>
-            <td style="vertical-align: middle;">+86 755 8801 5015</td>    
-          </tr>
-          <tr>
-            <th scope="row"><i class="fas fa-map-marked-alt" style="font-size: 2rem"></i></i></th>
-            <td style="vertical-align: middle;">1088 Xueyuan Blvd, Nanshan District, Shenzhen, China</td>   
-          </tr>
-        </table>
-      </div>
-    </div>
 
     {% if page.social %}
     

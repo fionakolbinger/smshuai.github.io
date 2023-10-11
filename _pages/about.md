@@ -1,20 +1,26 @@
 ---
 layout: about
-title: <u>C</u>omputational <u>Omics</u> Lab
+title: Technological Innovation for Personalized Surgery
 permalink: /
-description: Biomedical Science <i class="fas fa-dna"></i> x Data Science <i class="fas fa-laptop-code"></i>
+description: 
 
-news: true  # includes a list of news items
+news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<img src="/assets/img/comics-logo-01.svg" alt="comics-logo" width="250"/>
-<img src="/assets/img/LOGO-01.svg" alt="sustech-logo" width="250"/>
 
-The **COmics Lab** is led by [Shimin Shuai, PhD](https://www.sustech.edu.cn/en/facultys/shiminshuai.html){:target="\_blank"}, and is a part of the Department of Human Cell Biology and Genetics, School of Medicine, [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/){:target="\_blank"} at Shenzhen, China. We work at the intersection of biomedical science and data science, and we aim to **develop computational tools for and generate biological insights from large and novel omics data**!
+The **TIPS Lab** is a dynamic, interdisciplinary team of researchers located at [Purdue University](https://www.purdue.edu/)'s [Weldon School of Biomedical Engineering](https://engineering.purdue.edu/BME) in West Lafayette, IN, USA. We work at the intersection of surgery and data science, aiming to **develop clinically valuable computational tools for personalized patient care in surgery**. Combining technical knowledge with a clinical perspective on health and disease and an understanding of legal and regulatory requirements, our goal is to drive the clinical translation of novel technologies in the fields of surgery and interventional medicine.
 
-To learn more about our research, please see our [projects](/projects/) and [publications](/publications/). Also, don't forget to meet our [team](/team/) and check out current [job opportunities](/jobs/)!
+To learn more about our research, please see our [publications](/publications/), meet our [team](/team/) and check out current [opportunities to join the lab](/jobs/).
 
 
-<!-- <img src="/assets/img/sustech-med-logo.png" alt="sustech-med-logo" width="200"/> -->
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+  <img src="/assets/img/groupphoto_2021-12.jpg" alt="group photo" width="600"/>
+</div>
+
+<br>
+
+## Our affiliations
+
+Our lab is located at [Purdue University](https://www.purdue.edu/)'s [Weldon School of Biomedical Engineering](https://engineering.purdue.edu/BME) in West Lafayette, IN, USA. We hold a secondary affiliation with the [Department of Visceral, Thoracic and Vascular Surgery, University Hospital Carl Gustav Carus](https://www.uniklinikum-dresden.de/de/das-klinikum/kliniken-polikliniken-institute/vtg) at the [Technical University Dresden](https://tu-dresden.de/), Germany.
